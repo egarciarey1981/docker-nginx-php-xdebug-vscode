@@ -1,2 +1,2 @@
-# docker-nginx-php-xdebug
-Base project using docker, nginx, php and xdebug
+# Base project
+Base project using Docker, Nginx, PHP and Xdebug in VS Code
